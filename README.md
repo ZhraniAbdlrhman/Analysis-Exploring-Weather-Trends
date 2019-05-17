@@ -1,8 +1,8 @@
 # Analysis Exploring Weather Trends
 
 --------
-
-#### After running SQL queries :  
+The PDF report file downloaded in term of. 
+#### After running below SQL queries :  
 
 *To find out the closest city (SELECT * FROM city_list WHERE country = 'Saudi Arabia')*
 
