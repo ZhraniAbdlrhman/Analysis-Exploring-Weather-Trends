@@ -2,7 +2,7 @@
 
 --------
 
-## After running SQL queries :  
+#### After running SQL queries :  
 
 *To find out the closest city (SELECT * FROM city_list WHERE country = 'Saudi Arabia')*
 
@@ -10,7 +10,9 @@
 
 *To get Global data (SELECT * FROM global_data )*
 
-## For analysis.
+-------
+#### For analysis:
+
 • I used **Microsoft Excel** for the analysis.
 
 The city i live in was not exist in the data so i used the closest city to my country .
